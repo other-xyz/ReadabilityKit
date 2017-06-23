@@ -7,5 +7,4 @@ framework module Ji {
 
 module Ji.Swift {
     header "Ji-Swift.h"
-    requires objc
 }
